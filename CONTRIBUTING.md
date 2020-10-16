@@ -1,6 +1,6 @@
-#CONTRIBUTING
+# CONTRIBUTING
 
--Add a description file for:
+## -Add a description file for:
   * Front end
   * Middle end
   * Back end
